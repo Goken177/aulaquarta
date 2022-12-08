@@ -1,0 +1,11 @@
+C:\Users\samuel.varaujo\source\repos\trabalho2\trabalho2\bin\Debug\trabalho2.exe.config
+C:\Users\samuel.varaujo\source\repos\trabalho2\trabalho2\bin\Debug\trabalho2.exe
+C:\Users\samuel.varaujo\source\repos\trabalho2\trabalho2\bin\Debug\trabalho2.pdb
+C:\Users\samuel.varaujo\source\repos\trabalho2\trabalho2\obj\Debug\trabalho2.csproj.AssemblyReference.cache
+C:\Users\samuel.varaujo\source\repos\trabalho2\trabalho2\obj\Debug\trabalho2.csproj.SuggestedBindingRedirects.cache
+C:\Users\samuel.varaujo\source\repos\trabalho2\trabalho2\obj\Debug\trabalho2.Form1.resources
+C:\Users\samuel.varaujo\source\repos\trabalho2\trabalho2\obj\Debug\trabalho2.Properties.Resources.resources
+C:\Users\samuel.varaujo\source\repos\trabalho2\trabalho2\obj\Debug\trabalho2.csproj.GenerateResource.cache
+C:\Users\samuel.varaujo\source\repos\trabalho2\trabalho2\obj\Debug\trabalho2.csproj.CoreCompileInputs.cache
+C:\Users\samuel.varaujo\source\repos\trabalho2\trabalho2\obj\Debug\trabalho2.exe
+C:\Users\samuel.varaujo\source\repos\trabalho2\trabalho2\obj\Debug\trabalho2.pdb
